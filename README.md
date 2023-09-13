@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Kelvin Kipkoech Chepkwony. :laptop
 
  #### 🔭 I’m currently working on Bursary Management Application
  #### 🌱 I’m currently learning Python
@@ -7,5 +7,5 @@
  #### 💬 Ask me about Flutter
  #### 📫 How to reach me: chepkwonyke1@gmail.com
  #### 😄 Pronouns: ...
- #### ⚡ Fun fact: ...
+ #### ⚡ Fun fact: :mango: :lemon: :man: :car:
 
