@@ -6,6 +6,5 @@
  #### 🤔 I’m looking for help with SQL
  #### 💬 Ask me about Flutter
  #### 📫 How to reach me: chepkwonyke1@gmail.com
- #### 😄 Pronouns: ...
- #### ⚡ Fun fact: :mango: :lemon: :man: :car:
+ #### ⚡ Fun fact: 🎯
 
