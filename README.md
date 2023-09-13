@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kelvin Kipkoech Chepkwony. :laptop
+### Hi there 👋, I'm Kelvin Kipkoech Chepkwony. 💻
 
  #### 🔭 I’m currently working on Bursary Management Application
  #### 🌱 I’m currently learning Python
