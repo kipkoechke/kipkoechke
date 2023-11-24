@@ -12,5 +12,6 @@
 [E-mail](chepkwonyke1@gmail.com) 
 
 **Projects**
-[Omnifood](https://kipkoechke.github.io/Omnifood/)
+
+1. [Omnifood](https://kipkoechke.github.io/Omnifood/)
 
