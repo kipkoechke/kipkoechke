@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kelvin Kipkoech Chepkwony. 💻
+ Hi there 👋, I'm # ***Kelvin Kipkoech Chepkwony***. 💻
 
  🌱 I’m currently learning Python
 
@@ -9,7 +9,7 @@
  📫 How to reach me:
 [E-mail](chepkwonyke1@gmail.com) 
 
-**Projects**
+# **Projects**
 
 **[Omnifood](https://kipkoechke.github.io/Omnifood/)**
 
