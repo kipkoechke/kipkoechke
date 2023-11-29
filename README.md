@@ -11,5 +11,5 @@
 
 # **Projects**
 
-**[Omnifood](https://kipkoechke.github.io/Omnifood/)**
+## **[Omnifood](https://kipkoechke.github.io/Omnifood/)**
 
