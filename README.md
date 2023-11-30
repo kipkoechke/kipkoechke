@@ -7,7 +7,7 @@
  📫 How to reach me:
 [E-mail](chepkwonyke1@gmail.com) 
 
-# **Projects**
+ **Projects**
 
 ## **[Omnifood](https://kipkoechke.github.io/Omnifood/)**
 
