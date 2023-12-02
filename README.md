@@ -1,4 +1,4 @@
- ## Hi there 👋, I'm ***Kelvin Kipkoech Chepkwony***. 💻
+ # Hi there 👋, I'm ***Kelvin Kipkoech Chepkwony***. 💻
 
  🌱 I’m currently learning Python
 
